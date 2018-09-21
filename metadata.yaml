@@ -1,0 +1,25 @@
+_repo: Adelaide-Wahrscheinlich-nur-ein-Roman_54481
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Wallenrodt, Augusta von
+    gutenberg_agent_id: '47894'
+    url: http://www.gutenberg.org/2009/agents/47894
+  - agent_name: Goldstein, AKA Augusta von
+    gutenberg_agent_id: '47895'
+    url: http://www.gutenberg.org/2009/agents/47895
+description: ''
+gutenberg_issued: '2017-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54481'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Adelaide
+
+  Wahrscheinlich nur ein Roman'
+url: http://www.gutenberg.org/ebooks/54481
